@@ -149,6 +149,9 @@ h1 {
   .main__header {
     display: none;
   }
+  .main__menu {
+    overflow: hidden;
+  }
   .content {
     display: flex;
     flex-direction: row;
